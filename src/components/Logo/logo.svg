@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 282.036 150">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #eaf2f5;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 30px;
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        font-size: 54px;
+        font-family: Roboto-Black, Roboto;
+        font-weight: 800;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_1);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.687" y1="0.663" x2="0" y2="0.65" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#51d0b5"/>
+      <stop offset="1" stop-color="#48b9c2"/>
+    </linearGradient>
+    <filter id="Rectangle_1" x="0" y="2" width="282.036" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#6e7d94"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo" transform="translate(-251 8)">
+    <g id="Group_5" data-name="Group 5">
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, 251, -8)">
+        <g id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" transform="translate(9 8)">
+          <rect class="cls-4" width="264.036" height="100" rx="5"/>
+          <rect class="cls-5" x="0.5" y="0.5" width="263.036" height="99" rx="4.5"/>
+        </g>
+      </g>
+    </g>
+    <text id="the" class="cls-2" transform="translate(302 22)"><tspan x="0" y="29">the</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(1)">
+      <text id="_boards" data-name="
+boards" class="cls-3" transform="translate(286 -8)"><tspan x="0" y="51"></tspan><tspan x="0" y="91">boards</tspan></text>
+    </g>
+  </g>
+</svg>
